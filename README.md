@@ -1,1 +1,1 @@
-# system_monitor_linux
+# System Monitor for Linux OS
